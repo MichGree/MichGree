@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 היי, אני מייקל
 
-<!--
-**MichGree/MichGree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+מהנדס חשמל ואלקטרוניקה עם התמחות ב:
+- 🛰️ מערכות לוויין  
+- 🔭 אלקטרואופטיקה  
+- 📡 תקשורת ועיבוד אותות  
 
-Here are some ideas to get you started:
+מתעניין בפיתוח מערכות חומרה–תוכנה, סימולציות, ועיבוד נתונים ממערכות פיזיקליות.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ טכנולוגיות וכלים
+- Python, NumPy, PyTorch  
+- MATLAB  
+- C / C++  
+- Signal Processing
+
+## 📫 צור קשר
+- GitHub: https://github.com/USERNAME  
+- LinkedIn: https://linkedin.com/in/USERNAME
